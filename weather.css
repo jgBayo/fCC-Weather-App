@@ -1,5 +1,8 @@
 body{
     padding: 2em;
+    background-color: slategray;
+    color: white;
+    
 }
 h1{
     font-size:6em;
@@ -7,4 +10,14 @@ h1{
 }
 #tButton{
     padding: 0.5em;
+    font-family: 'Maven Pro', sans-serif;
+    display:none;
+    /*background-color: skyblue;
+    border-color: skyblue; */
+    color: white;
+}
+.data{
+    font-family: 'Maven Pro', sans-serif;
+    padding: 0.25em;
+    font-size: 24px;
 }
